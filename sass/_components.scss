@@ -6,6 +6,11 @@
 //////////////////////////////////
 ////////////SEARCH BOX
 .search {
+        flex: 0 0 40%;
+
+        display: flex;
+        align-item: center;
+        justify-content: center;
         &__input {
         }
 
